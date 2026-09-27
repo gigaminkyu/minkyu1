@@ -3,7 +3,7 @@
 The navigation hub. Start every query here (Rule 7), follow the relevant links,
 and synthesize — do not load the whole vault.
 
-_Last updated: 2026-07-03 · Sources ingested: 1 · Pages: 6_
+_Last updated: 2026-09-27 · Sources ingested: 2 · Pages: 11_
 
 ## Concepts
 - [[LLM-Maintained Knowledge Base]] — the core idea; the hub of this vault
@@ -15,5 +15,13 @@ _Last updated: 2026-07-03 · Sources ingested: 1 · Pages: 6_
 ## People
 - [[Andrej Karpathy]] — author of the source manifesto
 
+## Meta Muse (AI agents & models)
+- [[Meta Muse]] — Meta's personal AI agent (2026-09-08); security, pricing, privacy debate
+- [[Muse Spark]] — the closed-weight model powering it; benchmarks and a flagged contradiction
+- [[Muse Glimmer]] — 30B open-weight, Apache 2.0 distillation for local agents
+- [[Muse Charm]] — keychain device for Muse, unveiled at Connect 2026
+- [[Meta Superintelligence Labs]] — the lab behind the Muse family; timeline
+
 ## By source
-- `raw/2026-07-03-llm-wiki-field-notes.md` → touches every page above
+- `raw/2026-07-03-llm-wiki-field-notes.md` → the six knowledge-base pages above
+- `raw/2026-09-27-meta-muse-web-research.md` → the five Meta Muse pages (search-summary capture)
